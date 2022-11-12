@@ -1,0 +1,11 @@
+.card{
+    background-color: salmon;
+    transition: 0.5s;
+    border-radius: 12px;
+    text-align: left;
+}
+.card:hover{
+    background-color: gray;
+    transition: 0.5s;
+    transform: scale(102%);
+}
